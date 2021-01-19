@@ -1,16 +1,14 @@
-# pure_coding_onboarding_screen
+# Flutter Walkthrough : Onboarding Screen Demo
 
-A new Flutter project.
+这是一个精简的Flutter滚动介绍页面
+
+![Walkthrough1](http://106.52.29.145/project/01.png)![Walkthrough2o](http://106.52.29.145/project/02.png)![Walkthrough3](http://106.52.29.145/project/03.png)
+
+If you found this project helpful or you learned something from the source code give me a ⭐ .
+
+Do ⭐ the repo it really motivates me to share more useful UI.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
